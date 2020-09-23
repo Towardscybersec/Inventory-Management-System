@@ -45,7 +45,7 @@ This inventory management system is user-friendly and completely secured as the 
  
  **Step 1.** Import database in Windows Operating system(**MySQL Workbench recommended**).
  
- **Step 2.** Download Windows executable folder from 👉 https://drive.google.com/file/d/1pH47Owdb6lBS1tO9cf7hOBBaR07dmfDU/view?usp=sharing .
+ **Step 2.** Download Windows executable folder from 👇 https://drive.google.com/file/d/1pH47Owdb6lBS1tO9cf7hOBBaR07dmfDU/view?usp=sharing .
  
  **Step 3.** Click on index.exe to open Inventory management System.
  
