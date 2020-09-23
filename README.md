@@ -43,7 +43,7 @@ This inventory management system is user-friendly and completely secured as the 
  
  ## ➤ Windows Installation Guide for Authority
  
- **Step 1.** Import database in Windows Operating system(**MySQL Workbench recommended**).
+ **Step 1.** Import database from this github repository on Windows Operating system(**MySQL Workbench recommended**).
  
  **NOTE:- Keep database name as ' library '.**
  
